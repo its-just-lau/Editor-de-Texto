@@ -180,5 +180,10 @@ namespace Editor_de_Texto
         {
             cambiosRealizados = true;
         }
+
+        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
